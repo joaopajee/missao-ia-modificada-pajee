@@ -7,7 +7,7 @@
 
 const perguntas = [
     {
-        enunciado: " Que tipo de música você costuma ouvir diariamente? ",
+        enunciado: " Que tipo de música você costuma ouvir diariamente seu gay? ",
         alternativas: [
             {
                 texto: " Músicas calmas e relaxantes ",
